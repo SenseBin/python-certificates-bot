@@ -28,6 +28,6 @@ pip install requests cryptography
 
 运行脚本：
 ```bash
-python python-certificates-bot
+python python-certificates-bot.py
 ```
 生成的证书文件将在 `cert_output` 目录中。
