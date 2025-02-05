@@ -25,9 +25,10 @@ pip install requests cryptography
 1. Modify `account_emails` in the main function to your own email address.
 2. Change `domain_name` in the main function to the domain name for which you want to generate a certificate.
 3. Set `challenge_base_dir` to your server's `$webroot/.well-known/acme-challenge`
+
 Run the script:
 ```bash
-python python-certificates-bot
+python python-certificates-bot.py
 ```
 The output files will be generated in the `cert_output` directory.
 
