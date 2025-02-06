@@ -16,7 +16,7 @@ Python-Certificates-Bot is a Python tool designed to automate the process of obt
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/SenseBin/python-certificates-bot .git
+git clone https://github.com/SenseBin/python-certificates-bot.git
 cd python-certificates-bot 
 pip install requests cryptography
 ```
